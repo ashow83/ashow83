@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou o Adriano Show 
+- 👋 Olá, Eu sou o Adriano
 - 👀 Eu estou interessado na carreira profissional em Dados
 - 🌱 Eu estou estudando e praticando sobre o assunto
 - 💞️ Eu estou pronto para aprender e ensinar!
